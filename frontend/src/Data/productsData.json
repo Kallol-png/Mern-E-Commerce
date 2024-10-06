@@ -1,0 +1,86 @@
+[
+    {
+        "id" : "1",
+        "name" : "Airpod",
+        "description" : "The AirPods automatically connect to your device as soon as you take them out of the charging case, making them effortless to use. 💨 Designed for on-the-go lifestyles, the AirPods offer up to 5 hours of listening time on a single charge, and the charging case provides multiple charges for all-day use.",
+        "price" : "16000",
+        "image" : "https://i.ibb.co.com/YcRqDsR/airpod.jpg"
+    },
+    {
+        "id" : "2",
+        "name" : "Bag",
+        "description" : "The Bag features a spacious main compartment, allowing you to store all your essentials with ease. Whether you're heading to work, running errands, or going out with friends, this Bag has got you covered. 🎒 Made with premium quality materials, this Bag is built to last.",
+        "price" : "4500",
+        "image" : "https://i.ibb.co.com/Stxzn65/bag.jpg"
+    },
+    {
+        "id" : "3",
+        "name" : "Body Spray",
+        "description" : " The body spray has a lightweight and non-greasy formula, allowing it to easily glide onto your skin, leaving behind a subtle and long-lasting aroma that will keep you smelling amazing from morning to night. ✨ With its convenient and travel-friendly packaging, our Body Spray is perfect for on-the-go touch-ups, ensuring you never have to worry about feeling anything less than fabulous.",
+        "price" : "1500",
+        "image" : "https://i.ibb.co.com/8cK0r3k/body-spray.jpg"
+    },
+    {
+        "id" : "4",
+        "name" : "Camera",
+        "description" : "The Camera features a spacious main compartment, allowing you to store all your essentials with ease. Whether you're heading to work, running errands, or going out with friends, this Bag has got you covered. 🎒 Made with premium quality materials, this Bag is built to last.",
+        "price" : "22000",
+        "image" : "https://i.ibb.co.com/Fn0kYFj/camera.jpg"
+    },
+    {
+        "id" : "5",
+        "name" : "Iphone",
+        "description" : "The Iphone features a spacious main compartment, allowing you to store all your essentials with ease. Whether you're heading to work, running errands, or going out with friends, this Bag has got you covered. 🎒 Made with premium quality materials, this Bag is built to last.",
+        "price" : "11000",
+        "image" : "https://i.ibb.co.com/k9VZ30m/iphone.jpg"
+    },
+    {
+        "id" : "6",
+        "name" : "Laptop",
+        "description" : "The Laptop features a spacious main compartment, allowing you to store all your essentials with ease. Whether you're heading to work, running errands, or going out with friends, this Bag has got you covered. 🎒 Made with premium quality materials, this Bag is built to last.",
+        "price" : "65000",
+        "image" : "https://i.ibb.co.com/Wtzhsfg/laptop.jpg"
+    },
+    {
+        "id" : "7",
+        "name" : "Mouse",
+        "description" : "The Mouse features a spacious main compartment, allowing you to store all your essentials with ease. Whether you're heading to work, running errands, or going out with friends, this Bag has got you covered. 🎒 Made with premium quality materials, this Bag is built to last.",
+        "price" : "500",
+        "image" : "https://i.ibb.co.com/4WfFww7/mouse.jpg"
+    },
+    {
+        "id" : "8",
+        "name" : "Mugs",
+        "description" : "The Mugs features a spacious main compartment, allowing you to store all your essentials with ease. Whether you're heading to work, running errands, or going out with friends, this Bag has got you covered. 🎒 Made with premium quality materials, this Bag is built to last.",
+        "price" : "1200",
+        "image" : "https://i.ibb.co.com/zXM27ZH/mugs.jpg"
+    },
+    {
+        "id" : "9",
+        "name" : "Shoe",
+        "description" : "The Shoe features a spacious main compartment, allowing you to store all your essentials with ease. Whether you're heading to work, running errands, or going out with friends, this Bag has got you covered. 🎒 Made with premium quality materials, this Bag is built to last.",
+        "price" : "1800",
+        "image" : "https://i.ibb.co.com/WyyGgy1/shoe.jpg"
+    },
+    {
+        "id" : "10",
+        "name" : "Sunglass",
+        "description" : "The Sunglass features a spacious main compartment, allowing you to store all your essentials with ease. Whether you're heading to work, running errands, or going out with friends, this Bag has got you covered. 🎒 Made with premium quality materials, this Bag is built to last.",
+        "price" : "1500",
+        "image" : "https://i.ibb.co.com/3WCvgWg/sunglass.jpg"
+    },
+    {
+        "id" : "11",
+        "name" : "Television",
+        "description" : "The Television features a spacious main compartment, allowing you to store all your essentials with ease. Whether you're heading to work, running errands, or going out with friends, this Bag has got you covered. 🎒 Made with premium quality materials, this Bag is built to last.",
+        "price" : "25000",
+        "image" : "https://i.ibb.co.com/RHJSx3L/tv.jpg"
+    },
+    {
+        "id" : "12",
+        "name" : "Watch",
+        "description" : "The Watch features a spacious main compartment, allowing you to store all your essentials with ease. Whether you're heading to work, running errands, or going out with friends, this Bag has got you covered. 🎒 Made with premium quality materials, this Bag is built to last.",
+        "price" : "5000",
+        "image" : "https://i.ibb.co.com/4Spp7LL/watch.jpg"
+    }
+]
